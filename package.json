@@ -1,9 +1,9 @@
 {
-  "name": "otter",
+  "name": "Otter",
   "version": "1.0.0",
-  "main": "dist/otter.js",
+  "main": "dist/bot.js",
   "repository": "https://github.com/ArhanCodes/Otter",
-  "author": "Sean Outram <outramsean0@gmail.com>",
+  "author": "Sean Outram <outramsean0@gmail.com> ArhanCodes <arhan@peakseducation.com>",
   "type": "module",
   "license": "MIT",
   "devDependencies": {
