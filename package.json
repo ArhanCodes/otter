@@ -25,4 +25,7 @@
     "nodemon": "nodemon .",
     "register": "node dist/register.js"
   }
+  "volta": {
+    "node": "18.10.0"
+  }
 }
