@@ -19,7 +19,11 @@ export class UserCommand extends Command {
 			"https://cdn.discordapp.com/attachments/1009420908747837451/1025708051593961522/otter9.png",
 			"https://cdn.discordapp.com/attachments/1009420908747837451/1025708051979841607/otter10.png",
 			"https://cdn.discordapp.com/attachments/1009420908747837451/1025708052395073607/otter11.png",
+<<<<<<< HEAD:src/commands/otter.ts
 			"https://cdn.discordapp.com/attachments/1009420908747837451/1025712736098865154/otter12.png",
+=======
+                        "https://cdn.discordapp.com/attachments/1009420908747837451/1025712736098865154/otter12.png",
+>>>>>>> e8ef1f2c516796ef5d2805023b50414ee7929eb8:src/commands/img.ts
 			"https://cdn.discordapp.com/attachments/1009420908747837451/1025708052663521290/otter13.png",
 		];
 		const num = Math.floor(Math.random() * images.length);
