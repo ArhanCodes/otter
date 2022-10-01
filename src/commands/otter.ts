@@ -32,6 +32,8 @@ export class UserCommand extends Command {
 			"https://cdn.discordapp.com/attachments/1025714225726902302/1025717449989042216/otter22.png",
 			"https://cdn.discordapp.com/attachments/1025714225726902302/1025717450244902982/otter23.png",
 			"https://cdn.discordapp.com/attachments/1025714225726902302/1025717451062775808/otter24.png",
+			"https://cdn.discordapp.com/attachments/1025714225726902302/1025719441633333299/otter25.png",
+			"https://cdn.discordapp.com/attachments/1025714225726902302/1025719441855615039/otter26.png",
 		];
 		const num = Math.floor(Math.random() * images.length);
 		return interaction.reply({ content: `${images[num]}` });
