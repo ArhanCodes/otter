@@ -26,6 +26,7 @@
     "register": "node dist/register.js"
   },
   "volta": {
-    "node": "18.10.0"
+    "node": "18.10.0",
+    "yarn": "1.22.19"
   }
 }
