@@ -3,4 +3,4 @@ A discord bot that generates and sends pictures of otters. Invite the bot [here]
 
 ## To-do:
 - Add an autopost and allow users to configure it
-- Add more otters [here]()
+- Add more otters [here](https://github.com/ArhanCodes/Otter/blob/main/src/commands/otter.ts)
