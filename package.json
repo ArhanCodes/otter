@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "dist/bot.js",
   "repository": "https://github.com/ArhanCodes/Otter",
-  "author": "Sean Outram <outramsean0@gmail.com> ArhanCodes <arhan@peakseducation.com>",
+  "author": "Sean Outram <outramsean0@gmail.com>, ArhanCodes <arhan@peakseducation.com>",
   "type": "module",
   "license": "MIT",
   "devDependencies": {
