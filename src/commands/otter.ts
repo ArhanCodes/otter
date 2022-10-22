@@ -3,7 +3,7 @@ import { Command, RegisterCommand } from '@skyra/http-framework';
 @RegisterCommand((builder) =>
 	builder //
 		.setName('otter')
-		.setDescription('Sends an image of an otter.')
+		.setDescription('Sends an image of an otter')
 )
 export class UserCommand extends Command {
 	public override chatInputRun(interaction: Command.ChatInputInteraction) {
