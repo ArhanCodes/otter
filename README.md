@@ -3,7 +3,6 @@ A discord bot that sends pictures of otters. Invite the bot [here](https://disco
 
 ## Commands
 `/otter` - sends a picture of an otter\
-(soon) `/invite` - sends the bot invite link
 
 ### To-do:
 - Add an autopost and allow users to configure it.
