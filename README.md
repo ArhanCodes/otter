@@ -4,10 +4,6 @@ A discord bot that sends pictures of otters. <b> Invite the bot [here](https://d
 ## Commands
 `/otter` - sends a picture of an otter
 
-### To-do:
-- Add an autopost and allow users to configure it.
-- Add more otters pictures [here](https://github.com/ArhanCodes/Otter/blob/main/src/commands/otter.ts).
-
 ![image](https://user-images.githubusercontent.com/106308047/206126654-3877ab5f-ef8f-4f61-991c-53972a454e4a.png)
 
 
