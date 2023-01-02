@@ -8,5 +8,6 @@ A discord bot that sends pictures of otters. <b> Invite the bot [here](https://d
 
 ## To-do:
   - [ ] Add an autopost and allow users to configure it.
+  - [ ] Instead of using Discord's CDN, build something like [this](https://otter.bruhmomentlol.repl.co/random).
   - [ ] Add more otters pictures [here](https://github.com/ArhanCodes/Otter/blob/main/src/commands/otter.ts).
   - [x] Fix the problem where the otters weren't loading in.
