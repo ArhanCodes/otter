@@ -1,4 +1,7 @@
-Discontinued and no longer hosted because I don't use discord anymore
+Discontinued and no longer hosted because I don't use discord anymore.
+
+
+
 
 # Otter
 A discord bot that sends pictures of otters. <b> Invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=1007346134529871974&permissions=274878024704&scope=bot%20applications.commands). </b>
